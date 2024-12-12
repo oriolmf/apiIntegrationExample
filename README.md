@@ -10,7 +10,7 @@ This repository serves as a comprehensive example for documenting and integratin
   - A step-by-step guide illustrating how data flows between the two APIs.
   - Use-case scenarios such as user authentication, data synchronization, and webhook handling.
 - **Code Examples**
-  - Sample scripts (in Python, Node.js, or another language) demonstrating how to consume the APIs.
+  - Sample scripts in Python demonstrating how to consume the APIs.
   - Integration templates to jumpstart development.
 
 ## Structure
